@@ -91,7 +91,7 @@ main{
 }
 .first::before{
     content: '';
-    background: url(images/bg-pattern-quotation.svg);
+    background: url(bg-pattern-quotation.svg);
     background-repeat: no-repeat;
     position: absolute;
     top: 0;
